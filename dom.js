@@ -1,5 +1,5 @@
 
-document[0].children
+document[1].children
 
 var document = [
   {
