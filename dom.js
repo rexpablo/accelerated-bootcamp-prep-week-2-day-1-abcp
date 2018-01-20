@@ -1,5 +1,5 @@
 
-document[0].children
+
 
 var document = [
   {
@@ -44,3 +44,4 @@ var document = [
     ]
   }
 ];
+document[0].children
