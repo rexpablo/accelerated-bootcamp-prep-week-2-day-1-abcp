@@ -1,5 +1,5 @@
 
-return children 
+console.logchildren 
 var document = [
   {
     tagName: "div",
